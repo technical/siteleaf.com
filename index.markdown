@@ -1,6 +1,6 @@
 ---
 title: Levall - redefining residential sales & lettings
-header_title: Built for developers, Loved by everyone
+header_title: Making property Sales & Lettings better
 subtitle: |-
   Levall is a Marketplace designed for a better web.
 
